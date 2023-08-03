@@ -4,11 +4,11 @@ This is a Python program that compares two Excel column and highlight the matchi
 ## Example
 before highlight:
 
-![before highlight](https://github.com/cheffey/excel_text_match_highlighter/blob/master/img/before_highlight.jpg)
+![before highlight](https://github.com/cheffey/excel_text_match_highlighter/blob/main/img/before_highlight.jpg?raw=true)
 
 after highlight:
 
-![after highlight](https://github.com/cheffey/excel_text_match_highlighter/blob/master/img/after_highlight.jpg)
+![after highlight](https://github.com/cheffey/excel_text_match_highlighter/blob/main/img/after_highlight.jpg?raw=true)
 
 ## How to use
 ```
