@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="excel_text_match_highlighter",
+    name="match_highlighter",
     version="0.1",
     author="Cheffey",
     author_email="not@reachable.com",
